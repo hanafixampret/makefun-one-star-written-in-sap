@@ -1,0 +1,1 @@
+{"description":"One Star, Written in Sap — a houseplant's one-line 1-star review of its human owner.","license":"MIT","main":"main.ts","name":"makefun-one-star-written-in-sap","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
